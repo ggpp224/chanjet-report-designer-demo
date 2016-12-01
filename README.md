@@ -5,7 +5,7 @@
 
 ## 安装和使用
 
-1. 分别进入javascript 或 typescript 目录
+1. 进入javascript 或 typescript 目录
 
 2. 执行 `npm install`
 
