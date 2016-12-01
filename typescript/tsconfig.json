@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "allowJs": true,
+    "sourceMap": true,
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": true,
+    "allowSyntheticDefaultImports": true,
+    "removeComments": false,
+    "noImplicitAny": false,
+    "jsx": "react"
+  },
+  "awesomeTypescriptLoaderOptions": {
+    "library": "es6",
+    "useBabel": true,
+    "useCache": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}

@@ -1,0 +1,490 @@
+{
+  "cspReport": {
+    "pageHeader": {
+      "band": {
+        "elementGroup": [
+          {
+            "image": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 15,
+                "y": 9,
+                "width": 49,
+                "height": 49,
+                "forecolor": "black",
+                "backcolor": "white",
+                "uuid": "0ec857e0-ad92-11e6-9ed6-3b899b963023"
+              },
+              "scaleImage": "RetainShape",
+              "hAlign": "Left",
+              "vAlign": "Top",
+              "value": "http://img5.imgtn.bdimg.com/it/u=2027041300,1302288331&fm=23&gp=0.jpg"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 195,
+                "y": 9,
+                "width": 327,
+                "height": 49,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "0ec8cd10-ad92-11e6-9ed6-3b899b963023"
+              },
+              "box": {
+                "bottomPen": {
+                  "lineWidth": 2,
+                  "lineStyle": "Dashed",
+                  "lineColor": "rgba(65, 117, 5, 1)"
+                },
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 24,
+                  "isBold": true,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Center",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "MUTANTS 小怪兽公司出库单"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 13,
+                "y": 101,
+                "width": 72,
+                "height": 21,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "41f8f930-ae19-11e6-8e82-312be76ca63b"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 14,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Left",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "\b出库类型："
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 93,
+                "y": 101,
+                "width": 153,
+                "height": 21,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 1)",
+                "uuid": "50b95f00-ae19-11e6-8e82-312be76ca63b"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 14,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Left",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "=出库类型"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 353,
+                "y": 100,
+                "width": 72,
+                "height": 22,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 1)",
+                "uuid": "cbcc2d30-ae19-11e6-aefe-a7de7df554e8"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 14,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Left",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "=库房名称"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 274,
+                "y": 101,
+                "width": 72,
+                "height": 21,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "cbcf3a70-ae19-11e6-aefe-a7de7df554e8"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 14,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Right",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "库房："
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 526,
+                "y": 100,
+                "width": 72,
+                "height": 22,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "f946c900-ae19-11e6-aefe-a7de7df554e8"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 14,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Right",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "出库日期："
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 608,
+                "y": 100,
+                "width": 102,
+                "height": 22,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 1)",
+                "uuid": "f94bd210-ae19-11e6-aefe-a7de7df554e8"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 14,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Left",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "=出库日期"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 578,
+                "y": 67,
+                "width": 27,
+                "height": 21,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "673b48a0-ae1a-11e6-9483-d53ae2792238"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 12,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Center",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "第"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 608,
+                "y": 67,
+                "width": 69,
+                "height": 21,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 1)",
+                "uuid": "77ebbea0-ae1a-11e6-9483-d53ae2792238"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 12,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Left",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "=单号"
+            }
+          },
+          {
+            "textField": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 683,
+                "y": 67,
+                "width": 27,
+                "height": 21,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "871805a0-ae1a-11e6-9483-d53ae2792238"
+              },
+              "box": {
+                "topMargin": 0,
+                "leftMargin": 0,
+                "bottomMargin": 0,
+                "rightMargin": 0
+              },
+              "textElement": {
+                "font": {
+                  "fontName": "Arial",
+                  "size": 12,
+                  "isBold": false,
+                  "isItalic": false,
+                  "isUnderline": false,
+                  "isStrikeThrough": false
+                },
+                "textAlignment": "Left",
+                "verticalAlignment": "Middle",
+                "rotation": "None"
+              },
+              "text": "\b号"
+            }
+          }
+        ],
+        "height": "122",
+        "splitType": "Stretch",
+        "uuid": "59ea9870-ae67-11e6-80ca-ddc656e8d54d"
+      }
+    },
+    "detail": {
+      "band": {
+        "elementGroup": [
+          {
+            "dataTable": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 8,
+                "y": 14,
+                "width": 702,
+                "height": 64,
+                "forecolor": "black",
+                "backcolor": "white",
+                "uuid": "0ec99060-ad92-11e6-9ed6-3b899b963023"
+              },
+              "data": "{\"sheet\":{\"columnHeader\":{\"_height\":15,\"columnCount\":6,\"items\":{\"1\":{\"width\":87},\"2\":{\"width\":143},\"3\":{\"width\":143},\"4\":{\"width\":65},\"5\":{\"width\":132},\"6\":{\"width\":131}}},\"rowHeader\":{\"rowCount\":3,\"items\":{\"1\":{\"height\":20},\"2\":{\"height\":25},\"3\":{\"height\":20}}},\"cells\":{\"I1\":{\"text\":\"单价\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"},\"F1\":{\"text\":\"备注\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"},\"E1\":{\"text\":\"金额\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"},\"D1\":{\"text\":\"数量\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"},\"C1\":{\"text\":\"摘要\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"},\"B1\":{\"text\":\"单位\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"},\"A1\":{\"text\":\"货物名称\",\"textAlign\":1,\"background\":\"rgba(184, 233, 134, 1)\"}}},\"config\":{\"type\":0,\"rowHeaderWidth\":50,\"columnHeaderHeight\":15,\"header\":{\"background\":\"#e5e5e5\",\"rows\":[{\"height\":20,\"background\":\"#e5e5e5\"}]},\"body\":{\"background\":\"#f5f5f5\",\"rows\":[{\"height\":25},{\"height\":20,\"background\":\"#f5f5f5\"}]},\"footer\":{\"background\":\"#f5f5f5\",\"rows\":[]},\"columns\":{\"fields\":[{\"width\":87},{\"width\":143},{\"width\":143},{\"width\":65},{\"width\":132},{\"width\":131}]},\"cellsData\":{\"11_11\":{\"text\":\"\"}}}}"
+            }
+          }
+        ],
+        "height": "93",
+        "splitType": "Stretch",
+        "uuid": "59f14f30-ae67-11e6-80ca-ddc656e8d54d"
+      }
+    },
+    "pageFooter": {
+      "band": {
+        "elementGroup": [
+          {
+            "staticTable": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 8,
+                "y": 13,
+                "width": 702,
+                "height": 67,
+                "forecolor": "black",
+                "backcolor": "white",
+                "uuid": "114d4b40-ae25-11e6-95ca-b10c5fb39fc4"
+              },
+              "data": "{\"sheet\":{\"columnHeader\":{\"_height\":15,\"columnCount\":6,\"items\":{\"1\":{\"width\":69},\"2\":{\"width\":156},\"3\":{\"width\":177},\"4\":{\"width\":50},\"5\":{\"width\":75},\"6\":{\"width\":174}}},\"rowHeader\":{\"rowCount\":3,\"items\":{\"1\":{\"height\":20},\"2\":{\"height\":24},\"3\":{\"height\":24}}},\"cells\":{\"F1\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"E1\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"F2\":{\"textAlign\":1,\"background\":\"rgba(243, 239, 179, 1)\"},\"D1\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"E2\":{\"text\":\"销售部经理\"},\"F3\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"C1\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"D2\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"E3\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"B1\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"C2\":{\"text\":\"库管员\",\"textAlign\":1,\"background\":\"rgba(255, 255, 255, 1)\"},\"D3\":{\"text\":\"总经理\",\"background\":\"rgba(243, 239, 179, 1)\"},\"A1\":{\"text\":\"备注\",\"textAlign\":1,\"background\":\"rgba(255, 255, 255, 1)\"},\"B2\":{\"textAlign\":1,\"background\":\"rgba(243, 239, 179, 1)\"},\"C3\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"A2\":{\"text\":\"业务员\",\"textAlign\":1,\"background\":\"rgba(255, 255, 255, 1)\"},\"B3\":{\"background\":\"rgba(243, 239, 179, 1)\"},\"A3\":{\"text\":\"财务经理\",\"textAlign\":1,\"background\":\"rgba(255, 255, 255, 1)\"}}},\"config\":{\"type\":1,\"rowHeaderWidth\":50,\"columnHeaderHeight\":15,\"columns\":{\"fields\":[{\"width\":69},{\"width\":156},{\"width\":177},{\"width\":50},{\"width\":75},{\"width\":174}]},\"cellsData\":{\"1_1\":{\"text\":\"wwwww\",\"background\":\"yellow\"}},\"rows\":[{\"height\":20},{\"height\":24,\"background\":\"green\"},{\"height\":24.057971014492754}]}}"
+            }
+          },
+          {
+            "rectangle": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 8,
+                "y": 101,
+                "width": 60,
+                "height": 49,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "8ec67190-af16-11e6-9f00-1b76f22db02a"
+              },
+              "fill": "rgba(184, 233, 134, 1)",
+              "lineColor": "black",
+              "lineWidth": 2,
+              "lineStyle": "Dotted"
+            }
+          },
+          {
+            "ellipse": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 83,
+                "y": 100,
+                "width": 99,
+                "height": 52,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "a94ac610-af16-11e6-9f00-1b76f22db02a"
+              },
+              "fill": "rgba(255, 255, 255, 0)",
+              "lineColor": "rgba(208, 2, 27, 1)",
+              "lineWidth": 1,
+              "lineStyle": "Dotted"
+            }
+          },
+          {
+            "line": {
+              "reportElement": {
+                "mode": "Opaque",
+                "x": 210,
+                "y": 121,
+                "width": 501,
+                "height": 16,
+                "forecolor": "black",
+                "backcolor": "rgba(255, 255, 255, 0)",
+                "uuid": "b14fff10-af16-11e6-9f00-1b76f22db02a"
+              },
+              "direction": "EW",
+              "lineColor": "rgba(144, 19, 254, 1)",
+              "lineWidth": 1,
+              "lineStyle": "Solid"
+            }
+          }
+        ],
+        "height": "200",
+        "splitType": "Stretch",
+        "uuid": "59f63130-ae67-11e6-80ca-ddc656e8d54d"
+      }
+    },
+    "name": "公司出库单",
+    "pageKind": "A4",
+    "paperWidth": "210mm",
+    "paperHeight": "297mm",
+    "columnWidth": 733,
+    "columnSpacing": 0,
+    "leftMargin": 30,
+    "rightMargin": 30,
+    "topMargin": 30,
+    "bottomMargin": 30,
+    "bandWidth": "19cm",
+    "uuid": "0ec68320-ad92-11e6-9ed6-3b899b963023"
+  }
+}
