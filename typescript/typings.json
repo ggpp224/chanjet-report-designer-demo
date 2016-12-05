@@ -5,6 +5,6 @@
     "react": "registry:dt/react#0.14.0+20161124131900",
     "react-dom": "registry:dt/react-dom#0.14.0+20160412154040",
     "require": "registry:dt/require#2.1.20+20160919185614",
-    "chanjet-reports-designer-debug": "registry:dt/chanjet-reports-designer-debug"
+    "chanjet-reports-designer": "registry:dt/chanjet-reports-designer"
   }
 }

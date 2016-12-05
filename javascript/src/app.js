@@ -25,7 +25,7 @@ const muiTheme = getMuiTheme({
     },
 });
 
-import {ReportDesigner, DataSource, DataTable, DataTypeEnum, DataField, DataRelation, DataRelationShip,ReportDesignMode} from 'chanjet-reports-designer-debug';
+import {ReportDesigner, DataSource, DataTable, DataTypeEnum, DataField, DataRelation, DataRelationShip,ReportDesignMode} from 'chanjet-reports-designer';
 
 
 

@@ -3,7 +3,7 @@ import * as ReactDOM from 'react-dom';
 import './www/css/main.less';
 import MuiThemeProvider from "material-ui/styles/MuiThemeProvider";
 import getMuiTheme from "material-ui/styles/getMuiTheme";
-import {ReportDesigner, DataSource, DataTable, DataTypeEnum, DataField, DataRelation, DataRelationShip,ReportDesignMode} from 'chanjet-reports-designer-debug';
+import {ReportDesigner, DataSource, DataTable, DataTypeEnum, DataField, DataRelation, DataRelationShip,ReportDesignMode} from 'chanjet-reports-designer';
 
 
 const muiTheme = getMuiTheme({
